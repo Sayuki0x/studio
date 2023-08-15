@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.523.0](https://github.com/Zapper-fi/studio/compare/v0.522.0...v0.523.0) (2023-08-15)
+
+
+### Features
+
+* **stargate:** Support Base ([#2898](https://github.com/Zapper-fi/studio/issues/2898)) ([c2f3b81](https://github.com/Zapper-fi/studio/commit/c2f3b81c566ac4c0cfef62294ef997652edba510))
+
 ## [0.522.0](https://github.com/Zapper-fi/studio/compare/v0.521.0...v0.522.0) (2023-08-14)
 
 
